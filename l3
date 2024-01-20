@@ -1,0 +1,9 @@
+#include <iostream>
+#include <chrono>
+#include <fstream>
+#include <vector>
+struct TS{
+std::string view;
+std::string type;
+std:: device;
+};
